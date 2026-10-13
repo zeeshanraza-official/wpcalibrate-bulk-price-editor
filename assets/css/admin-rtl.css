@@ -1,0 +1,12 @@
+/**
+ * WPCalibrate Bulk Price Editor - Admin RTL Stylesheet
+ */
+
+/* RTL Specific Overrides if needed beyond CSS Logical Properties */
+.wpcalibrate-bpe-wrap {
+	direction: rtl;
+}
+
+.wpcalibrate-bpe-modal-close {
+	float: left;
+}
